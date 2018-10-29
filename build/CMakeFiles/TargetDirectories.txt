@@ -1,0 +1,3 @@
+/home/localguest/Desktop/Network/build/CMakeFiles/NetSim.dir
+/home/localguest/Desktop/Network/build/CMakeFiles/doc.dir
+/home/localguest/Desktop/Network/build/CMakeFiles/testNetSim.dir
